@@ -1,0 +1,2 @@
+# DesignPattern
+设计模式demo合集，目的是收集齐23种设计模式的基础演示demo用于学习
